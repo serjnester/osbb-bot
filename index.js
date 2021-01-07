@@ -16,7 +16,7 @@ bot.on(BotEvents.MESSAGE_RECEIVED, (message, response) => {
 });
 
 // Wasn't that easy? Let's create HTTPS server and set the webhook:
-const port = 8080;
+const port = 8082;
 
 // Viber will push messages sent to this URL. Web server should be internet-facing.
 const webhookUrl = 'https://vps41798nl.hyperhost.name/viber/webhook'
