@@ -1,0 +1,19 @@
+{
+  "name": "viber-chat-bot-osbb",
+  "version": "0.0.1",
+  "description": "chatbot for osbb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "viber",
+    "bot",
+    "chatbot"
+  ],
+  "author": "isergeynesterenko@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "viber-bot": "^1.0.16"
+  }
+}
